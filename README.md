@@ -17,3 +17,6 @@ $\alpha=0.51$. Each line carries a reference code of the paper in the form used 
   * `xray_data.csv`: Energy (in keV), photoel. absorption corrected energy flux (keV/cm$^2$/s), uncertainty, reference.
   * `gamma_data.csv`: Energy (in GeV), energy flux (in erg/cm$^2$/s), uncertainty, reference.
   * `sample_plot.ipynb`: should be self-explanatory. Req. py3.
+
+
+Any additional questions directed to dieter.horns
