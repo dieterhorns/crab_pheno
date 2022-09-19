@@ -1,0 +1,9 @@
+wvlenAng,flux,absorptionvcv,reference,absorption
+# angstrom, Jy, mag, Ref,  mag O94, Av=1.08, Ebv=0.43
+# no uncertainties given, in 2203.11502, we used 10% rel. unc.
+# the first absorption value is the one used in 1993A&A...
+# the second one is used in 2203.11502
+1,9241,6.57,0.67,1993A&A...270..370V,0.45
+2,6450,4.78,1.20,1993A&A...270..370V,0.87
+3,5364,4.23,1.54,1993A&A...270..370V,1.12
+4,3808,3.22,2.14,1993A&A...270..370V,1.72
