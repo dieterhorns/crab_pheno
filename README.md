@@ -1,4 +1,7 @@
 # crab_pheno
+[![DOI](https://zenodo.org/badge/505965067.svg)](https://zenodo.org/badge/latestdoi/505965067)
+
+
 If you use the data collection assembled here or the model calculations provided here, please reference our paper:
 
 * L. Dirson and D. Horns* _Phenomenological modelling of the Crab Nebula’s broad-band
