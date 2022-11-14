@@ -19,7 +19,8 @@ $\alpha=0.51$. Each line carries a reference code of the paper in the form used 
   * `sample_plot.ipynb`: should be self-explanatory. Req. py3.
 
 
-In addition to the data, we have included the set of curves shown in Fig. ![sed_varalpha](https://user-images.githubusercontent.com/12654998/201673361-6c9ff6a9-92fe-42c5-a205-ba9852a70c51.png) as two separate tables `synctable.txt` for the synchrotron
+In addition to the data, we have included the set of curves shown in Fig.  ![sed_varalpha (1)](https://user-images.githubusercontent.com/12654998/201674660-6a3d7529-718f-4379-a892-f38653bff8ce.png)
+as two separate tables `synctable.txt` for the synchrotron
 emission and `ictable.txt` for the inverse Compton emission. 
 
 The first row indicates the sequence of values for $\alpha$ used. First column is the energy in eV, following columns is $I_\nu$ in ergs/s for
